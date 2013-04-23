@@ -16,6 +16,7 @@ gem 'rake'
 # Component requirements
 gem 'slim'
 gem 'mongoid', '~>3.0.0'
+gem 'dynamoid'
 
 # Test requirements
 
